@@ -1,5 +1,11 @@
-Podczas  tworzenia aplikacji uczyłem się :
+Parking Spot Finder
+
+Google Maps
+
 Kotlin
+
 jetpackcompose
-marker 
+
+marker
+
 MVVM
